@@ -14,7 +14,7 @@ module - info about current modul (file)
 
 process - info about env where the program is being executed
 
-
+//npmjs.com
 npm - global command , comes with node
 
 npm --version
@@ -30,6 +30,7 @@ manual approach (create Package.json in the root , create properties etc )
 npm init (step by step , press enter to skip )
 npm init -y (everything default)
 
+  
 
 
 
