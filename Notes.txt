@@ -10,3 +10,14 @@ module - info about current modul (file)
 
 process - info about env where the program is being executed
 
+
+npm - global command , comes with node
+
+npm --version
+
+local dependency - use it only in this particular project 
+npm i <PackageName>
+
+global dependency - use it in any project
+npm install -g <PackageName>
+
